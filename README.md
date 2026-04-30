@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./cover.png"/>
-</p>
+![Cover](./cover.png)
 
 # Illustrator Page Numbering Pro
 Advanced page numbering script for Adobe Illustrator.
