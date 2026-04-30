@@ -1,5 +1,8 @@
-# Illustrator Page Numbering Pro
+<p align="center">
+  <img src="./cover.png"/>
+</p>
 
+# Illustrator Page Numbering Pro
 Advanced page numbering script for Adobe Illustrator.
 
 Add fully customizable page numbers to your artboards with support for facing pages, independent margins, centered layout, and background labels.
